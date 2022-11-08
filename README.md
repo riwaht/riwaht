@@ -8,7 +8,7 @@ I've been learning to code for about three years, starting with pure Java to bra
 
 * 🌍  I'm based in Beirut, Lebanon.
 * ✉️  You can contact me at [riwa.hoteit@lau.edu](mailto:riwa.hoteit@lau.edu)
-* 🧠  I'm learning frameworks.
+* 🧠  I'm learning frameworks, mainly React.
 * 🤝  I'm open to collaborating on interesting game development / VR projects.
 * ⚡  What inspires me to study is my love for video games and anime, which allows me to integrate them into my studying.
 
