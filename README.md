@@ -8,7 +8,7 @@ I've been learning to code for about three years, starting with pure Java to bra
 
 * 🌍  I'm based in Beirut, Lebanon.
 * ✉️  You can contact me at [riwa.hoteit@lau.edu](mailto:riwa.hoteit@lau.edu)
-* 🧠  I'm practicing on ThreeJs.
+* 🧠  I'm practicing ThreeJs.
 * 🤝  I'm open to collaborating on interesting game development / VR projects or web development projects.
 * ⚡  What inspires me to study is my love for video games and 3D modeling, which allows me to integrate them into my studying.
 
@@ -49,6 +49,3 @@ I've been learning to code for about three years, starting with pure Java to bra
 
 <a href="https://github.com/riwaht" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwaht&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/riwahoteit"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
