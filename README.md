@@ -56,13 +56,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/2d7qu1c5einkoixtixxtqhcmv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src = "https://spotify-github-profile.vercel.app/api/view?uid=2d7qu1c5einkoixtixxtqhcmv&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/riwaht/riwaht/output/snake.svg" alt="Snake animation" />
 
 ###
