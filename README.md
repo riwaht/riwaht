@@ -56,17 +56,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
-
-###
-<br></br>
-<h2>What I'm Listening To</h2>
-<br clear="both">
-<div align="center">
-  <img src = "https://spotify-github-profile.vercel.app/api/view?uid=2d7qu1c5einkoixtixxtqhcmv&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</div>
-
-###
-<h2>My Commits</h2>
-<img src="https://raw.githubusercontent.com/riwaht/riwaht/output/snake.svg" alt="Snake animation" />
-
-###
