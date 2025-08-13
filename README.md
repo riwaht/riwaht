@@ -1,58 +1,43 @@
-<h2 align="left">Hi 🤸‍♀️! My name is Riwa and I'm a Software Developer.</h2>
+## Hi, I’m Riwa 🤸‍♀️  
+Software Developer • Builder of cool things • Always learning
 
-###
+[🌐 Portfolio](https://riwashouse.live) • [📄 Resume](https://riwaswork.notion.site/riwahoteitcv) • [💼 LinkedIn](https://www.linkedin.com/in/riwa-hoteit)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riwaht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riwaht&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧰 What I’m up to
+- Interning at **Snowflake** on the Developer Platform team — building REST & Python APIs, improving developer tooling, and writing a lot of tests I’m secretly proud of.
+- Developing a **narrative puzzle-platformer game** inspired by *Little Nightmares* and *Inside*. I’m the PM, designer, and developer — characters in Blender, gameplay in Unity, performance tuning everywhere.
+- Writing (soon!) about my projects, workflows, and favorite tools.
 
-<img align="right" height="150" src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif"  />
+---
 
-###
+### 📚 What I’ve done
+- **Snowflake** – Added new API features, integrated SQL parameters, and made life easier for developers using Terraform.
+- **inmind.ai** – Built multiplayer VR simulations, AI-driven NPCs, and an AR SLAM iOS app to track robots in real time.
+- **Beirut App** – A mobile restaurant discovery app with LLM-based recommendations, Notion CMS integration, and REST APIs.
+- **3D Web Apps** – Interactive portfolio, bike shop, and 3D editor using React + Three.js.
+- **Teaching** – Ran robotics and game dev workshops for students, from LEGO Spike PRIME to Unity.
 
-<h2 align ="left">My Top Skills</h2>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-</div>
+### 🚂 Where I’m headed
+- Growing my portfolio with more full-stack apps and immersive experiences.
+- Expanding my Unity game into a fully playable, polished title.
+- Coding more!
+- Joining a team where I can ship impactful software and learn from brilliant people.
+
+---
+
+### ⚙️ Tech I use
+**Languages:** JavaScript (ES6+), TypeScript, Python, Java, C#, SQL  
+**Frameworks/Libraries:** React, React Native, Three.js, Tailwind CSS, FastAPI, Node.js, Express  
+**Tools:** Docker, Git, Snowflake SQL, MySQL, MongoDB, OpenCV  
+**Creative:** Blender, Figma, Photoshop, Illustrator, After Effects  
+**Other:** Unity, Vuforia, Netcode for GameObjects
+
+---
+
+### 📬 Get in touch
+[💼 LinkedIn](https://www.linkedin.com/in/riwa-hoteit) • [📧 Email](mailto:riwa.hoteit@gmail.com)  
+Always happy to talk about projects, collaboration, or anything tech + design!
